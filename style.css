@@ -104,7 +104,7 @@ section {
     font-size: 14px;
 }
 
-.currency-value {
+.currency-value,.currency-value-to-covert {
     color: #555555;
     font-weight: 700;
     font-size: 20px;
