@@ -9,7 +9,7 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;400;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
-    
+
 </head>
 
 <body>
@@ -23,9 +23,11 @@
         </label>
         <label>
             Converter <b>para</b>
-            <select class ="currency-select">
+            <select class="currency-select">
                 <option value="dolar">US$ Dólar americano</option>
                 <option value="euro">€ Euro </option>
+                <option value="Libra">Libra Esterlina</option>
+                <option value="Bitcoin">Bitcoin</option>
             </select>
         </label>
         <label>
@@ -47,13 +49,14 @@
 
                 <img class="arrow-img" src="./assets/arrow.png" alt="seta">
             </div class="currency-box">
+            <div>
+                <img class="currency-img" src="./assets/dolar.png" alt="logo-moeda-convertida">
 
-            <img class="currency-imgatualizac~çI" src="./assets/dolar.png" alt="logo-moeda-convertida">
-
-            <p class="currency" id="currency-name">Dolar americano</p>
-            <p class="currency-value">Us$ 0.0</p>
+                <p class="currency" id="currency-name">Dolar americano</p>
+                <p class="currency-value">Us$ 0.0</p>
 
             </div>
+            
         </section>
     </main>
     <script src="scripts.js"></script>
