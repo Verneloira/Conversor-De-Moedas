@@ -8,7 +8,7 @@
 <br>
 <h2>Tecnologias utilizadas</h2>
 <br>
-<p>-HTML5</p>/>
+<p>-HTML5</p>
 <br>
 <p>-CSS3</p>
 <br>
