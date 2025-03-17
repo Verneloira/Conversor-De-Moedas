@@ -12,6 +12,5 @@
 <br>
 <p>-CSS3</p>
 <br>
-<img src="-https://t3.ftcdn.net/jpg/03/11/33/64/240_F_311336400_SV6wFNr2HuVok2eB4LmzKGklU2NS0R9J.jpg"/>
-<br>
+<p>JS</p>
 <img alt="ConversorDesktop.jpg" src="https://github.com/Verneloira/Conversor-De-Moedas/blob/main/assets/newdesktop%20converter.png" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
