@@ -8,7 +8,9 @@
 <br>
 <h2>Tecnologias utilizadas</h2>
 <br>
-<p>- HTML</p>
-<p>-CSS</p>
-<p>-JS</p>
+<img src="https://as1.ftcdn.net/jpg/03/58/74/54/1000_F_358745451_xatVosxRfQ963ZUg7aXr8GrE2lxNb5rP.jpg"/>
+<br>
+<img src="https://as1.ftcdn.net/jpg/03/58/74/54/1000_F_358745451_xatVosxRfQ963ZUg7aXr8GrE2lxNb5rP.jpg"/>
+<br>
+<img ser="https://as1.ftcdn.net/jpg/03/58/74/54/1000_F_358745451_xatVosxRfQ963ZUg7aXr8GrE2lxNb5rP.jpg"/>
 <img alt="ConversorDesktop.jpg" src="https://github.com/Verneloira/Conversor-De-Moedas/blob/main/assets/newdesktop%20converter.png" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
