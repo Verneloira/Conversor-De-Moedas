@@ -8,7 +8,7 @@
 <br>
 <h2>Tecnologias utilizadas</h2>
 <br>
-<img src="https://as1.ftcdn.net/jpg/03/58/74/54/1000_F_358745451_xatVosxRfQ963ZUg7aXr8GrE2lxNb5rP.jpg"/>
+<img src="https://t3.ftcdn.net/jpg/04/60/76/34/240_F_460763425_fuR0ClzozABiffBtrFKsIKRBNMWjW42v.jpg"/>
 <br>
 <img src="https://as1.ftcdn.net/jpg/03/58/74/54/1000_F_358745451_xatVosxRfQ963ZUg7aXr8GrE2lxNb5rP.jpg"/>
 <br>
