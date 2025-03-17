@@ -12,5 +12,5 @@
 <br>
 <img src="https://as1.ftcdn.net/jpg/03/58/74/54/1000_F_358745451_xatVosxRfQ963ZUg7aXr8GrE2lxNb5rP.jpg"/>
 <br>
-<img ser="https://as1.ftcdn.net/jpg/03/58/74/54/1000_F_358745451_xatVosxRfQ963ZUg7aXr8GrE2lxNb5rP.jpg"/>
+<img ser="https://t4.ftcdn.net/jpg/03/11/33/63/240_F_311336384_wLVHpvtpQdMw8hYdjRk9nVDCWATyqBcc.jpg"/>
 <img alt="ConversorDesktop.jpg" src="https://github.com/Verneloira/Conversor-De-Moedas/blob/main/assets/newdesktop%20converter.png" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
