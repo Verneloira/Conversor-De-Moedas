@@ -19,4 +19,5 @@
 
 <img alt="ConversorDesktop.jpg" src="https://github.com/Verneloira/Conversor-De-Moedas/blob/main/assets/newdesktop%20converter.png" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm"/>
 <br>
-<img scr="https://github.com/Verneloira/Conversor-De-Moedas/blob/main/assets/Mobile.png"/>
+<img src="https://github.com/Verneloira/Conversor-De-Moedas/blob/main/assets/Mobile.png"/>
+
