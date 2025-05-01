@@ -8,7 +8,9 @@
 <br>
 <h2>Tecnologias utilizadas</h2>
 <br>
-<p>- HTML</p>
-<p>-CSS</p>
-<p>-JS</p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"</>
+<br>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"</p>
+<br>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img alt="ConversorDesktop.jpg" src="https://github.com/Verneloira/Conversor-De-Moedas/blob/main/assets/newdesktop%20converter.png" data-hpc="true" class="Box-sc-g0xbh4-0 fzFXnm">
